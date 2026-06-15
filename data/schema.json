@@ -63,18 +63,25 @@
     "default_translation": "French (fr)"
   },
   "date_created": "2026-05-06T20:04:57.516702Z",
-  "date_modified": "2026-05-11T13:24:27.191275Z",
-  "date_deployed": "2026-05-10T21:23:48.047001Z",
+  "date_modified": "2026-06-15T17:33:25.869824Z",
+  "date_deployed": "2026-06-15T17:33:25.868341Z",
   "version_id": "vZEGxH9CtnpxmrQ6x6HnYF",
   "version__content_hash": "d77d6773eccc0250bb5b6c452fc9ce304fe06ac3",
   "version_count": 20,
   "has_deployment": true,
-  "deployed_version_id": "vn359jiJextfXfv5uKAApp",
+  "deployed_version_id": "vZEGxH9CtnpxmrQ6x6HnYF",
   "deployed_versions": {
-    "count": 9,
+    "count": 10,
     "next": null,
     "previous": null,
     "results": [
+      {
+        "uid": "vZEGxH9CtnpxmrQ6x6HnYF",
+        "url": "https://kf.kobotoolbox.org/api/v2/assets/aGFaz86f9uVHSr4LX37haY/versions/vZEGxH9CtnpxmrQ6x6HnYF/?format=json",
+        "content_hash": "d77d6773eccc0250bb5b6c452fc9ce304fe06ac3",
+        "date_deployed": "2026-06-15T17:33:25.854746Z",
+        "date_modified": "2026-06-15T17:33:25.854746Z"
+      },
       {
         "uid": "vn359jiJextfXfv5uKAApp",
         "url": "https://kf.kobotoolbox.org/api/v2/assets/aGFaz86f9uVHSr4LX37haY/versions/vn359jiJextfXfv5uKAApp/?format=json",
@@ -7700,31 +7707,31 @@
   ],
   "effective_permissions": [
     {
-      "codename": "view_submissions"
-    },
-    {
-      "codename": "delete_asset"
-    },
-    {
       "codename": "change_submissions"
-    },
-    {
-      "codename": "delete_submissions"
-    },
-    {
-      "codename": "validate_submissions"
     },
     {
       "codename": "view_asset"
     },
     {
+      "codename": "delete_asset"
+    },
+    {
       "codename": "manage_asset"
     },
     {
-      "codename": "change_asset"
+      "codename": "validate_submissions"
+    },
+    {
+      "codename": "view_submissions"
     },
     {
       "codename": "add_submissions"
+    },
+    {
+      "codename": "delete_submissions"
+    },
+    {
+      "codename": "change_asset"
     }
   ],
   "exports": "https://kf.kobotoolbox.org/api/v2/assets/aGFaz86f9uVHSr4LX37haY/exports/?format=json",
@@ -7763,7 +7770,7 @@
     "invite": "https://kf.kobotoolbox.org/api/v2/project-ownership/invites/poiSJcK84vTu29mFq2VP59xm/?format=json",
     "sender": "pdba",
     "recipient": "jondoa",
-    "status": "pending"
+    "status": "expired"
   },
   "owner_label": "pdba",
   "last_modified_by": "pdba"
