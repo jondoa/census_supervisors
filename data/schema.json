@@ -7707,31 +7707,31 @@
   ],
   "effective_permissions": [
     {
-      "codename": "view_submissions"
-    },
-    {
-      "codename": "manage_asset"
-    },
-    {
-      "codename": "delete_asset"
-    },
-    {
-      "codename": "view_asset"
-    },
-    {
       "codename": "delete_submissions"
-    },
-    {
-      "codename": "validate_submissions"
-    },
-    {
-      "codename": "add_submissions"
     },
     {
       "codename": "change_submissions"
     },
     {
+      "codename": "view_asset"
+    },
+    {
+      "codename": "manage_asset"
+    },
+    {
+      "codename": "add_submissions"
+    },
+    {
+      "codename": "view_submissions"
+    },
+    {
+      "codename": "delete_asset"
+    },
+    {
       "codename": "change_asset"
+    },
+    {
+      "codename": "validate_submissions"
     }
   ],
   "exports": "https://kf.kobotoolbox.org/api/v2/assets/aGFaz86f9uVHSr4LX37haY/exports/?format=json",
@@ -7766,12 +7766,7 @@
   "access_types": null,
   "data_sharing": {},
   "paired_data": "https://kf.kobotoolbox.org/api/v2/assets/aGFaz86f9uVHSr4LX37haY/paired-data/?format=json",
-  "project_ownership": {
-    "invite": "https://kf.kobotoolbox.org/api/v2/project-ownership/invites/poiSJcK84vTu29mFq2VP59xm/?format=json",
-    "sender": "pdba",
-    "recipient": "jondoa",
-    "status": "expired"
-  },
+  "project_ownership": null,
   "owner_label": "pdba",
   "last_modified_by": "pdba",
   "created_by": "pdba"
