@@ -7713,22 +7713,22 @@
       "codename": "view_asset"
     },
     {
-      "codename": "change_submissions"
-    },
-    {
-      "codename": "view_submissions"
-    },
-    {
-      "codename": "add_submissions"
-    },
-    {
       "codename": "delete_asset"
     },
     {
       "codename": "change_asset"
     },
     {
+      "codename": "change_submissions"
+    },
+    {
+      "codename": "add_submissions"
+    },
+    {
       "codename": "validate_submissions"
+    },
+    {
+      "codename": "view_submissions"
     },
     {
       "codename": "manage_asset"
