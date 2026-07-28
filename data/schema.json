@@ -7707,16 +7707,7 @@
   ],
   "effective_permissions": [
     {
-      "codename": "manage_asset"
-    },
-    {
-      "codename": "view_asset"
-    },
-    {
-      "codename": "delete_submissions"
-    },
-    {
-      "codename": "change_submissions"
+      "codename": "delete_asset"
     },
     {
       "codename": "add_submissions"
@@ -7725,10 +7716,19 @@
       "codename": "validate_submissions"
     },
     {
+      "codename": "delete_submissions"
+    },
+    {
+      "codename": "change_submissions"
+    },
+    {
+      "codename": "manage_asset"
+    },
+    {
       "codename": "change_asset"
     },
     {
-      "codename": "delete_asset"
+      "codename": "view_asset"
     },
     {
       "codename": "view_submissions"
