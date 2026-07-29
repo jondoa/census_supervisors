@@ -147,7 +147,16 @@
       }
     ]
   },
-  "deployment__links": {},
+  "deployment__links": {
+    "url": "https://ee.kobotoolbox.org/yhTRlMEt",
+    "single_url": "https://ee.kobotoolbox.org/single/yhTRlMEt",
+    "single_once_url": "https://ee.kobotoolbox.org/single/80ddb8705cbe5fa4dcea0bce3db880f8",
+    "offline_url": "https://ee.kobotoolbox.org/x/yhTRlMEt",
+    "preview_url": "https://ee.kobotoolbox.org/preview/yhTRlMEt",
+    "iframe_url": "https://ee.kobotoolbox.org/i/yhTRlMEt",
+    "single_iframe_url": "https://ee.kobotoolbox.org/single/i/yhTRlMEt",
+    "single_once_iframe_url": "https://ee.kobotoolbox.org/single/i/80ddb8705cbe5fa4dcea0bce3db880f8"
+  },
   "deployment__active": true,
   "deployment__data_download_links": {
     "xls_legacy": "https://kc.kobotoolbox.org/pdba/exports/aGFaz86f9uVHSr4LX37haY/xls/",
@@ -7698,7 +7707,19 @@
   ],
   "effective_permissions": [
     {
+      "codename": "change_submissions"
+    },
+    {
+      "codename": "change_asset"
+    },
+    {
       "codename": "add_submissions"
+    },
+    {
+      "codename": "validate_submissions"
+    },
+    {
+      "codename": "delete_asset"
     },
     {
       "codename": "delete_submissions"
@@ -7707,22 +7728,10 @@
       "codename": "view_asset"
     },
     {
-      "codename": "change_asset"
-    },
-    {
-      "codename": "validate_submissions"
-    },
-    {
-      "codename": "change_submissions"
-    },
-    {
       "codename": "view_submissions"
     },
     {
       "codename": "manage_asset"
-    },
-    {
-      "codename": "delete_asset"
     }
   ],
   "exports": "https://kf.kobotoolbox.org/api/v2/assets/aGFaz86f9uVHSr4LX37haY/exports/?format=json",
