@@ -80,70 +80,80 @@
         "url": "https://kf.kobotoolbox.org/api/v2/assets/aGFaz86f9uVHSr4LX37haY/versions/vZEGxH9CtnpxmrQ6x6HnYF/?format=json",
         "content_hash": "d77d6773eccc0250bb5b6c452fc9ce304fe06ac3",
         "date_deployed": "2026-06-15T17:33:25.854746Z",
-        "date_modified": "2026-06-15T17:33:25.854746Z"
+        "date_modified": "2026-06-15T17:33:25.854746Z",
+        "version_number": "10"
       },
       {
         "uid": "vn359jiJextfXfv5uKAApp",
         "url": "https://kf.kobotoolbox.org/api/v2/assets/aGFaz86f9uVHSr4LX37haY/versions/vn359jiJextfXfv5uKAApp/?format=json",
         "content_hash": "d77d6773eccc0250bb5b6c452fc9ce304fe06ac3",
         "date_deployed": "2026-05-10T21:23:48.037581Z",
-        "date_modified": "2026-05-10T21:23:48.037581Z"
+        "date_modified": "2026-05-10T21:23:48.037581Z",
+        "version_number": "9"
       },
       {
         "uid": "v5FFQKaZnU3kgN5qTJzF7n",
         "url": "https://kf.kobotoolbox.org/api/v2/assets/aGFaz86f9uVHSr4LX37haY/versions/v5FFQKaZnU3kgN5qTJzF7n/?format=json",
         "content_hash": "22d7e9a246faec70ff90a1479377f6f26343b0bd",
         "date_deployed": "2026-05-10T21:01:13.014222Z",
-        "date_modified": "2026-05-10T21:01:13.014222Z"
+        "date_modified": "2026-05-10T21:01:13.014222Z",
+        "version_number": "8"
       },
       {
         "uid": "vrPyHKEMbfQTzsWPCu5kye",
         "url": "https://kf.kobotoolbox.org/api/v2/assets/aGFaz86f9uVHSr4LX37haY/versions/vrPyHKEMbfQTzsWPCu5kye/?format=json",
         "content_hash": "c9595beaaab488c2b38429df5eb74343d555349d",
         "date_deployed": "2026-05-10T20:43:24.451786Z",
-        "date_modified": "2026-05-10T20:43:24.451786Z"
+        "date_modified": "2026-05-10T20:43:24.451786Z",
+        "version_number": "7"
       },
       {
         "uid": "vam7RozrrfJXnutiqeeX27",
         "url": "https://kf.kobotoolbox.org/api/v2/assets/aGFaz86f9uVHSr4LX37haY/versions/vam7RozrrfJXnutiqeeX27/?format=json",
         "content_hash": "81b1afe2238760e3d5f231933880a10073304414",
         "date_deployed": "2026-05-10T20:26:57.070655Z",
-        "date_modified": "2026-05-10T20:26:57.070655Z"
+        "date_modified": "2026-05-10T20:26:57.070655Z",
+        "version_number": "6"
       },
       {
         "uid": "vkFeQYSHdsoLYx6z2ZtScy",
         "url": "https://kf.kobotoolbox.org/api/v2/assets/aGFaz86f9uVHSr4LX37haY/versions/vkFeQYSHdsoLYx6z2ZtScy/?format=json",
         "content_hash": "af4c171428023e5636a3707245cb4450ebb0e2af",
         "date_deployed": "2026-05-10T19:54:57.874362Z",
-        "date_modified": "2026-05-10T19:54:57.874362Z"
+        "date_modified": "2026-05-10T19:54:57.874362Z",
+        "version_number": "5"
       },
       {
         "uid": "vFDuKzKQcNGRiA8KLip3Ji",
         "url": "https://kf.kobotoolbox.org/api/v2/assets/aGFaz86f9uVHSr4LX37haY/versions/vFDuKzKQcNGRiA8KLip3Ji/?format=json",
         "content_hash": "949aa6835911a00a65dda9e8751b71263855f59e",
         "date_deployed": "2026-05-10T15:25:41.455238Z",
-        "date_modified": "2026-05-10T15:25:41.455238Z"
+        "date_modified": "2026-05-10T15:25:41.455238Z",
+        "version_number": "4"
       },
       {
         "uid": "vgkRHy34gHFBVP3sNftHBN",
         "url": "https://kf.kobotoolbox.org/api/v2/assets/aGFaz86f9uVHSr4LX37haY/versions/vgkRHy34gHFBVP3sNftHBN/?format=json",
         "content_hash": "f88330e387fa1b871553f005670b000ca8383000",
         "date_deployed": "2026-05-09T20:17:21.395053Z",
-        "date_modified": "2026-05-09T20:17:21.395053Z"
+        "date_modified": "2026-05-09T20:17:21.395053Z",
+        "version_number": "3"
       },
       {
         "uid": "vngaEpgJGKDKYMVZZ6yQ8x",
         "url": "https://kf.kobotoolbox.org/api/v2/assets/aGFaz86f9uVHSr4LX37haY/versions/vngaEpgJGKDKYMVZZ6yQ8x/?format=json",
         "content_hash": "8f1fdcd6fd3b3a90cf2f182e8c16c379cfc3b9ca",
         "date_deployed": "2026-05-06T20:46:25.337983Z",
-        "date_modified": "2026-05-06T20:46:25.337983Z"
+        "date_modified": "2026-05-06T20:46:25.337983Z",
+        "version_number": "2"
       },
       {
         "uid": "vmmBRKftBrSWPgtpbbRAE3",
         "url": "https://kf.kobotoolbox.org/api/v2/assets/aGFaz86f9uVHSr4LX37haY/versions/vmmBRKftBrSWPgtpbbRAE3/?format=json",
         "content_hash": "a06fcb513f865e84098ce8e67e0552ba7ab03279",
         "date_deployed": "2026-05-06T20:07:02.020719Z",
-        "date_modified": "2026-05-06T20:07:02.020719Z"
+        "date_modified": "2026-05-06T20:07:02.020719Z",
+        "version_number": "1"
       }
     ]
   },
@@ -162,7 +172,6 @@
     "xls_legacy": "https://kc.kobotoolbox.org/pdba/exports/aGFaz86f9uVHSr4LX37haY/xls/",
     "csv_legacy": "https://kc.kobotoolbox.org/pdba/exports/aGFaz86f9uVHSr4LX37haY/csv/",
     "zip_legacy": "https://kc.kobotoolbox.org/pdba/exports/aGFaz86f9uVHSr4LX37haY/zip/",
-    "kml_legacy": "https://kc.kobotoolbox.org/pdba/exports/aGFaz86f9uVHSr4LX37haY/kml/",
     "xls": "https://kc.kobotoolbox.org/pdba/reports/aGFaz86f9uVHSr4LX37haY/export.xlsx",
     "csv": "https://kc.kobotoolbox.org/pdba/reports/aGFaz86f9uVHSr4LX37haY/export.csv"
   },
@@ -7707,31 +7716,31 @@
   ],
   "effective_permissions": [
     {
-      "codename": "manage_asset"
-    },
-    {
-      "codename": "change_asset"
-    },
-    {
-      "codename": "add_submissions"
-    },
-    {
-      "codename": "validate_submissions"
-    },
-    {
       "codename": "delete_submissions"
-    },
-    {
-      "codename": "view_submissions"
-    },
-    {
-      "codename": "change_submissions"
     },
     {
       "codename": "view_asset"
     },
     {
       "codename": "delete_asset"
+    },
+    {
+      "codename": "change_asset"
+    },
+    {
+      "codename": "validate_submissions"
+    },
+    {
+      "codename": "change_submissions"
+    },
+    {
+      "codename": "manage_asset"
+    },
+    {
+      "codename": "view_submissions"
+    },
+    {
+      "codename": "add_submissions"
     }
   ],
   "exports": "https://kf.kobotoolbox.org/api/v2/assets/aGFaz86f9uVHSr4LX37haY/exports/?format=json",
