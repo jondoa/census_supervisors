@@ -7719,6 +7719,9 @@
       "codename": "change_asset"
     },
     {
+      "codename": "validate_submissions"
+    },
+    {
       "codename": "change_submissions"
     },
     {
@@ -7735,9 +7738,6 @@
     },
     {
       "codename": "delete_asset"
-    },
-    {
-      "codename": "validate_submissions"
     },
     {
       "codename": "view_asset"
